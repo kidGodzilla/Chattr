@@ -1,0 +1,9 @@
+{
+  "firebase": "f7-chat",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
